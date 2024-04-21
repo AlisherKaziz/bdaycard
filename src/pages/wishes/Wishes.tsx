@@ -46,10 +46,10 @@ const sampleMessagesDataArray: TMessagesData[] = [
     albumArt: firstAlbumArt,
     musicName: "Night City - R E L's Version",
     messageInParas: [
-      "Hey there Azhar, it's your big day! Sending you birthday wishes overflowing with joy and everything that brings a smile to your face.",
-      "May the coming year be a whirlwind of laughter, love, and moments you'll never forget. I hope you celebrate with the people closest to you, doing whatever makes your heart sing.",
+      "Hey there Azhara, it's your big day! Sending you birthday wishes overflowing with joy and everything that brings a smile to your face.",
+      "May the coming year be a whirlwind of laughter, love, and moments you'll never forget. I hope you will celebrate with the people closest to you, doing whatever makes your heart sing.",
       "From indulging in cake to unwrapping surprises, or simply kicking back and relaxing – have the most amazing birthday ever! Here's to another year of shining bright, crushing your goals, and living life on your terms only.",
-      "You're a treasure, Azhar, and I'm grateful for your presence. Happy birthday and cheers to a fantastic year ahead!",
+      "You're a treasure, Azhara, and I'm grateful for your presence. Happy birthday and cheers to a fantastic year ahead!",
     ],
     musicFilePath: firstMusic,
   },
